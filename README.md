@@ -29,16 +29,19 @@ My LeetCode solutions in C++ | DSA Journey
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
