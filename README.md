@@ -27,6 +27,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -68,4 +69,8 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
