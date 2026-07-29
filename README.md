@@ -28,6 +28,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
