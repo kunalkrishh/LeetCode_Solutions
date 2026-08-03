@@ -8,6 +8,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -17,6 +18,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -25,6 +27,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Array
 |  |
@@ -37,6 +40,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
