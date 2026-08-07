@@ -102,6 +102,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -123,4 +124,8 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
