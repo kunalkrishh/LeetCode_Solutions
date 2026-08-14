@@ -44,6 +44,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
