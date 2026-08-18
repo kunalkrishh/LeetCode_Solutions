@@ -22,6 +22,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -43,6 +44,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
