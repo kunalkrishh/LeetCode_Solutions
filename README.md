@@ -47,6 +47,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +115,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -136,6 +139,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,4 +165,9 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
