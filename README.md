@@ -61,6 +61,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [1929-concatenation-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
@@ -155,6 +156,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
