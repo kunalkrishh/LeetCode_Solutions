@@ -39,6 +39,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
@@ -74,6 +75,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -156,6 +158,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
