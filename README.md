@@ -60,6 +60,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +83,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
