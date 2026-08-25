@@ -72,6 +72,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
