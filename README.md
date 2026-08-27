@@ -78,6 +78,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -149,6 +150,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -180,6 +182,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
@@ -208,4 +211,16 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
