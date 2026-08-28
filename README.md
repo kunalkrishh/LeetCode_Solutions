@@ -7,6 +7,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
@@ -125,6 +126,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -151,6 +153,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -173,6 +176,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
