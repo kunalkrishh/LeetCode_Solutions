@@ -20,6 +20,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [3536-maximum-product-of-two-digits](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
