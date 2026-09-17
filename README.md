@@ -80,6 +80,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -147,6 +148,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
