@@ -9,6 +9,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
@@ -89,6 +90,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -115,6 +117,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
