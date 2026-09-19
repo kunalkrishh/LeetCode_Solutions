@@ -14,6 +14,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
