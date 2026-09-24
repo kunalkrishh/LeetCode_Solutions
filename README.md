@@ -20,6 +20,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -77,6 +78,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
