@@ -6,6 +6,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +158,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -247,6 +249,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
