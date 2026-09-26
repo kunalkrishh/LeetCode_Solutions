@@ -270,4 +270,8 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
