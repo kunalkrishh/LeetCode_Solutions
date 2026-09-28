@@ -174,6 +174,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -228,6 +229,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,4 +282,5 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
