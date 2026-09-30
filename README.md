@@ -277,6 +277,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0595-big-countries) |
 ## Bracket Sequences
