@@ -281,6 +281,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0176-second-highest-salary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0595-big-countries) |
+| [0607-sales-person](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0607-sales-person) |
 ## Bracket Sequences
 |  |
 | ------- |
