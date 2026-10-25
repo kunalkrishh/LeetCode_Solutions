@@ -28,6 +28,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -86,6 +87,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -169,6 +171,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
@@ -287,4 +290,8 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
