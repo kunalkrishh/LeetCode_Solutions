@@ -61,6 +61,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +128,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -219,6 +221,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -304,4 +307,24 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
