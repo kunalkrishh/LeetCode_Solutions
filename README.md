@@ -9,6 +9,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0002-add-two-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -58,6 +59,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -135,6 +137,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
@@ -210,6 +213,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
@@ -329,4 +333,16 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
