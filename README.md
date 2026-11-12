@@ -10,6 +10,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -181,6 +182,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
@@ -240,6 +242,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -271,6 +274,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
