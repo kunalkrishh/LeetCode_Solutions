@@ -64,6 +64,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -197,6 +198,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -302,6 +304,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
@@ -371,6 +374,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Design
 |  |
 | ------- |
@@ -392,4 +396,5 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0039-combination-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
