@@ -162,6 +162,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -179,6 +180,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -362,4 +364,12 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
