@@ -55,6 +55,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
@@ -382,4 +383,8 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0398-random-pick-index) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
