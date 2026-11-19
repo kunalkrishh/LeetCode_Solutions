@@ -12,6 +12,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0398-random-pick-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -165,6 +166,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0146-lru-cache](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0398-random-pick-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -372,4 +374,12 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0146-lru-cache) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
