@@ -35,6 +35,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
@@ -59,6 +60,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0046-permutations](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -367,6 +369,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Design
 |  |
