@@ -57,6 +57,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -356,4 +358,8 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
