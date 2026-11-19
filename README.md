@@ -54,6 +54,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0031-next-permutation](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -112,6 +113,7 @@ My LeetCode solutions in C++ | DSA Journey
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -156,6 +158,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -182,6 +185,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
