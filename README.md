@@ -73,6 +73,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -113,6 +114,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
@@ -141,6 +143,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -159,6 +162,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -276,6 +280,7 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -397,4 +402,8 @@ My LeetCode solutions in C++ | DSA Journey
 | [0039-combination-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0079-word-search) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
