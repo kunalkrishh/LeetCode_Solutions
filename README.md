@@ -78,6 +78,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0289-game-of-life](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +132,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +151,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+| [0436-find-right-interval](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
