@@ -38,6 +38,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0063-unique-paths-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -81,6 +82,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0436-find-right-interval](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0474-ones-and-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -213,6 +215,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0224-basic-calculator](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0474-ones-and-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -416,4 +419,12 @@ My LeetCode solutions in C++ | DSA Journey
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
