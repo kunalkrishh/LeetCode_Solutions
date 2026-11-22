@@ -37,6 +37,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0053-maximum-subarray](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -76,6 +77,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0287-find-the-duplicate-number](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0327-count-of-range-sum](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0327-count-of-range-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +130,7 @@ My LeetCode solutions in C++ | DSA Journey
 | [0088-merge-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -227,6 +230,7 @@ My LeetCode solutions in C++ | DSA Journey
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalkrishh/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
